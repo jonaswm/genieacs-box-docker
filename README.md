@@ -11,5 +11,5 @@ O projeto comtempla a criação de um ambiente em docker, utilizando dockerfile 
 
 
 Projeto original
-https://github.com/genieacs/genieacs
-https://github.com/genieacs/genieacs-gui
+- https://github.com/genieacs/genieacs
+- https://github.com/genieacs/genieacs-gui
